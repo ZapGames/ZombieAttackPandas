@@ -4,5 +4,6 @@
     <string name="app_name">Zombie Attack Pandas</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="ZAP_title">Zombie Attack Pandas</string>
 
 </resources>
